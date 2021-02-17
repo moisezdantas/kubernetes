@@ -37,9 +37,6 @@ J
 ```
 
 ### Variáveis de ambiente
-## Atividade de kubernetes
--- Arquivo de configuração dev-configmap.yml
-
-  MYSQL_ROOT_PASSWORD: q1w2e3r4 
-  MYSQL_DATABASE: empresa
-  MYSQL_PASSWORD: q1w2e3r4
+MYSQL_ROOT_PASSWORD: q1w2e3r4
+MYSQL_DATABASE: empresa
+MYSQL_PASSWORD: q1w2e3r4
