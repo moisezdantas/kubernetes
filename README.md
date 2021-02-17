@@ -38,6 +38,6 @@ J
 
 ### Variáveis de ambiente
 
-MYSQL_ROOT_PASSWORD: q1w2e3r4
-MYSQL_DATABASE: empresa
+MYSQL_ROOT_PASSWORD: q1w2e3r4 <br>
+MYSQL_DATABASE: empresa <br>
 MYSQL_PASSWORD: q1w2e3r4
